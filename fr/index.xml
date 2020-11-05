@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Recursion Error</title>
+        <link>https://recursionerror.com/fr/</link>
+        <description>Un autre blog sur la programmation</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+            <atom:link href="https://recursionerror.com/fr/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

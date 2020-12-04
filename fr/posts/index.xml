@@ -1,4 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tous Posts - µBlog.dev</title><link>/fr/posts/</link><description>Tous Posts | µBlog.dev</description><generator>Hugo -- gohugo.io</generator><language>fr</language><managingEditor>contact@ublog.dev (Kevin Marilleau)</managingEditor><webMaster>contact@ublog.dev (Kevin Marilleau)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 +0800</lastBuildDate><atom:link href="/fr/posts/" rel="self" type="application/rss+xml"/><item><title>Thème Documentation - Concepts de Base</title><link>/fr/theme-documentation-basics/</link><pubDate>Fri, 06 Mar 2020 21:40:32 +0800</pubDate><author>Dillon</author><guid>/fr/theme-documentation-basics/</guid><description><![CDATA[<p>Découvrez en quoi consiste le thème Hugo - <strong>LoveIt</strong> et les concepts fondamentaux qui le sous-tendent.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tous Posts - µBlog.dev</title><link>https://ublog.dev/fr/posts/</link><description>Tous Posts | µBlog.dev</description><generator>Hugo -- gohugo.io</generator><language>fr</language><managingEditor>contact@ublog.dev (Kevin Marilleau)</managingEditor><webMaster>contact@ublog.dev (Kevin Marilleau)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 +0800</lastBuildDate><atom:link href="https://ublog.dev/fr/posts/" rel="self" type="application/rss+xml"/><item><title>Thème Documentation - Concepts de Base</title><link>https://ublog.dev/fr/theme-documentation-basics/</link><pubDate>Fri, 06 Mar 2020 21:40:32 +0800</pubDate><author>Dillon</author><guid>https://ublog.dev/fr/theme-documentation-basics/</guid><description><![CDATA[<p>Découvrez en quoi consiste le thème Hugo - <strong>LoveIt</strong> et les concepts fondamentaux qui le sous-tendent.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-exclamation-triangle fa-fw"></i>Avertissement<i class="details-icon fas fa-angle-right fa-fw"></i>
@@ -1893,7 +1893,7 @@ You could upload the <code>index.json</code> files by browsers but a CLI tool ma
 To be compatible with Hugo multilingual mode,
 you need to upload different <code>index.json</code> for each language to the different index of algolia, such as <code>zh-cn/index.json</code> or <code>fr/index.json</code>&hellip;</div>
         </div>
-    </div>]]></description></item><item><title>Thème Documentation - Contenu</title><link>/fr/theme-documentation-content/</link><pubDate>Thu, 05 Mar 2020 16:30:05 +0800</pubDate><author>Dillon</author><guid>/fr/theme-documentation-content/</guid><description><![CDATA[<p>Découvrez comment créer et organiser votre contenu rapidement et intuitivement dans le thème <strong>LoveIt</strong>.</p>
+    </div>]]></description></item><item><title>Thème Documentation - Contenu</title><link>https://ublog.dev/fr/theme-documentation-content/</link><pubDate>Thu, 05 Mar 2020 16:30:05 +0800</pubDate><author>Dillon</author><guid>https://ublog.dev/fr/theme-documentation-content/</guid><description><![CDATA[<p>Découvrez comment créer et organiser votre contenu rapidement et intuitivement dans le thème <strong>LoveIt</strong>.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-exclamation-triangle fa-fw"></i>Avertissement<i class="details-icon fas fa-angle-right fa-fw"></i>
@@ -2406,7 +2406,7 @@ your content will conflict with basic or extended Markdown syntax, and it is ine
 </code></pre></td></tr></table>
 </div>
 </div><p>The rendered output looks like this:</p>
-<p><strong>[link](#escape-character)</strong> instead of <strong><a href="#escape-character" rel="">link</a></strong>.</p>]]></description></item><item><title>Thème Documentation - Built-in Shortcodes</title><link>/fr/theme-documentation-built-in-shortcodes/</link><pubDate>Wed, 04 Mar 2020 16:29:59 +0800</pubDate><author>Dillon</author><guid>/fr/theme-documentation-built-in-shortcodes/</guid><description><![CDATA[<p><strong>Hugo</strong> fournit plusieurs shortcodes intégrés pour la commodité de l&rsquo;auteur et pour garder votre contenu de démarque propre.</p>
+<p><strong>[link](#escape-character)</strong> instead of <strong><a href="#escape-character" rel="">link</a></strong>.</p>]]></description></item><item><title>Thème Documentation - Built-in Shortcodes</title><link>https://ublog.dev/fr/theme-documentation-built-in-shortcodes/</link><pubDate>Wed, 04 Mar 2020 16:29:59 +0800</pubDate><author>Dillon</author><guid>https://ublog.dev/fr/theme-documentation-built-in-shortcodes/</guid><description><![CDATA[<p><strong>Hugo</strong> fournit plusieurs shortcodes intégrés pour la commodité de l&rsquo;auteur et pour garder votre contenu de démarque propre.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-exclamation-triangle fa-fw"></i>Avertissement<i class="details-icon fas fa-angle-right fa-fw"></i>
@@ -2598,7 +2598,7 @@ Hugo fournit plusieurs shortcodes intégrés pour la commodité de l&#39;auteur 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube-nocookie.com/embed/w7Ft2ymGmfc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>]]></description></item><item><title>Thème Documentation - Extended Shortcodes</title><link>/fr/theme-documentation-extended-shortcodes/</link><pubDate>Tue, 03 Mar 2020 16:29:59 +0800</pubDate><author>Dillon</author><guid>/fr/theme-documentation-extended-shortcodes/</guid><description><![CDATA[<p>Le thème <strong>LoveIt</strong> fournit plusieurs shortcodes en plus de ceux intégrés dans Hugo.</p>
+</div>]]></description></item><item><title>Thème Documentation - Extended Shortcodes</title><link>https://ublog.dev/fr/theme-documentation-extended-shortcodes/</link><pubDate>Tue, 03 Mar 2020 16:29:59 +0800</pubDate><author>Dillon</author><guid>https://ublog.dev/fr/theme-documentation-extended-shortcodes/</guid><description><![CDATA[<p>Le thème <strong>LoveIt</strong> fournit plusieurs shortcodes en plus de ceux intégrés dans Hugo.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-exclamation-triangle fa-fw"></i>Avertissement<i class="details-icon fas fa-angle-right fa-fw"></i>
@@ -4172,7 +4172,7 @@ But sometimes you may want to start a set of <code>typeit</code> contents in ord
 <span class="p">{{&lt;</span> <span class="p">/</span><span class="nt">script</span> <span class="p">&gt;</span>}}
 </code></pre></td></tr></table>
 </div>
-</div><p>You can see the output in the console of the developer tool.</p>]]></description></item><item><title>Syntaxe de Markdown de Base</title><link>/fr/basic-markdown-syntax/</link><pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate><author>Dillon</author><guid>/fr/basic-markdown-syntax/</guid><description><![CDATA[<p>Cet article propose un exemple de syntaxe Markdown de base qui peut être utilisée dans les fichiers de contenu Hugo.</p>
+</div><p>You can see the output in the console of the developer tool.</p>]]></description></item><item><title>Syntaxe de Markdown de Base</title><link>https://ublog.dev/fr/basic-markdown-syntax/</link><pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate><author>Dillon</author><guid>https://ublog.dev/fr/basic-markdown-syntax/</guid><description><![CDATA[<p>Cet article propose un exemple de syntaxe Markdown de base qui peut être utilisée dans les fichiers de contenu Hugo.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-exclamation-triangle fa-fw"></i>Avertissement<i class="details-icon fas fa-angle-right fa-fw"></i>
@@ -5272,7 +5272,7 @@ This is a footnote with &#34;label&#34;[^label]
 <p>This is a footnote with &ldquo;label&rdquo; <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</section>]]></description></item><item><title>Emoji Support</title><link>/fr/emoji-support/</link><pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate><author>Dillon</author><guid>/fr/emoji-support/</guid><description><![CDATA[<p>Emoji peut être activé dans un projet Hugo de plusieurs façons.</p>
+</section>]]></description></item><item><title>Emoji Support</title><link>https://ublog.dev/fr/emoji-support/</link><pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate><author>Dillon</author><guid>https://ublog.dev/fr/emoji-support/</guid><description><![CDATA[<p>Emoji peut être activé dans un projet Hugo de plusieurs façons.</p>
 <div class="details admonition warning open">
         <div class="details-summary admonition-title">
             <i class="icon fas fa-exclamation-triangle fa-fw"></i>Avertissement<i class="details-icon fas fa-angle-right fa-fw"></i>
